@@ -1,2 +1,5 @@
 .env
 uv.lock
+data
+__pycache__
+prompts
